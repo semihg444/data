@@ -1,5 +1,104 @@
 [
     {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "FİTO FARMA İLAÇ İÇECEK KOZMETİK VE KİMYA SANAYİ TİCARET LİMİTED ŞİRKETİ",
+        "Marka": "YAĞIZ",
+        "Ürün Adı": "BİTKİSEL ACIBADEM,KARAMÜRVER,ÇAM KOZALAĞI,KARA ZENCEFİLLİ KARIŞIK BİTKİSEL MACUN",
+        "Uygunsuzluk": "İlaç Etken Maddesi Tespiti",
+        "Parti/Seri No": "Y.B.2023/1",
+        "İlçe": "ESENYURT",
+        "İl": "İSTANBUL",
+        "Ürün Grubu": "Bitkisel Macun vb. Ürünler"
+    },
+    {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "TALHA ACAR SÜT ÜRÜNLERİ-RASİM ACAR",
+        "Marka": "MUTLU RASİM USTA",
+        "Ürün Adı": "TAM YAĞLI YOĞURT (2000 GR)",
+        "Uygunsuzluk": "Natamisin Tespiti",
+        "Parti/Seri No": "031",
+        "İlçe": "MUT",
+        "İl": "MERSİN",
+        "Ürün Grubu": "Süt ve Süt Ürünleri"
+    },
+    {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "SY GROUP OTOMOTİV İNŞAAT GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ-STAR ET",
+        "Marka": "-",
+        "Ürün Adı": "ÇİĞ KUŞBAŞI ET (DANA-KUZU KARIŞIK)",
+        "Uygunsuzluk": "Tek Tırnaklı Eti Tespiti",
+        "Parti/Seri No": "26.04.2026",
+        "İlçe": "YENİŞEHİR",
+        "İl": "MERSİN",
+        "Ürün Grubu": "Et ve Et Ürünleri"
+    },
+    {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "DİMSAM ÇAY GIDA-MEHMET GÜVEN",
+        "Marka": "DİMSAM",
+        "Ürün Adı": "SİYAH ÇAY",
+        "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
+        "Parti/Seri No": "D-005",
+        "İlçe": "TEKKEKÖY",
+        "İl": "SAMSUN",
+        "Ürün Grubu": "Bitki, Çay ve Kahve Ürünleri"
+    },
+    {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "ZENGİN ÇAY TİCARET-ALİ ERKAN ZENGİN",
+        "Marka": "AYDER TİMYA",
+        "Ürün Adı": "SİYAH ÇAY",
+        "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
+        "Parti/Seri No": "S.08",
+        "İlçe": "TEKKEKÖY",
+        "İl": "SAMSUN",
+        "Ürün Grubu": "Bitki, Çay ve Kahve Ürünleri"
+    },
+    {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "ZENGİN ÇAY TİCARET-ALİ ERKAN ZENGİN",
+        "Marka": "ÇAY ZAMANI",
+        "Ürün Adı": "SİYAH ÇAY",
+        "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
+        "Parti/Seri No": "S.009",
+        "İlçe": "TEKKEKÖY",
+        "İl": "SAMSUN",
+        "Ürün Grubu": "Bitki, Çay ve Kahve Ürünleri"
+    },
+    {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "19 PİDE KEBAP SALONU-RAMAZAN BÖLÜKBAŞ",
+        "Marka": "MARAŞIM BİBER VE BAHARAT",
+        "Ürün Adı": "PUL BİBER",
+        "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
+        "Parti/Seri No": "25.06.2025",
+        "İlçe": "ELMADAĞ",
+        "İl": "ANKARA",
+        "Ürün Grubu": "Baharatlar, Çeşni Vericiler ve Soslar"
+    },
+    {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "HEKİMHAN BİTKİSEL SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+        "Marka": "HARREM",
+        "Ürün Adı": "GÜL SİRKESİ (500ML)",
+        "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
+        "Parti/Seri No": "10800",
+        "İlçe": "TOROSLAR",
+        "İl": "MERSİN",
+        "Ürün Grubu": "Baharatlar, Çeşni Vericiler ve Soslar"
+    },
+    {
+        "Kamuoyu Duyuru Tarihi": "01.06.2026",
+        "Firma Adı": "OSMAN TERLİK",
+        "Marka": "KARBİ BAHARAT",
+        "Ürün Adı": "PUL KIRMIZI BİBER (ACI)",
+        "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
+        "Parti/Seri No": "02.01.2025",
+        "İlçe": "ONİKİŞUBAT",
+        "İl": "KAHRAMANMARAŞ",
+        "Ürün Grubu": "Baharatlar, Çeşni Vericiler ve Soslar"
+    },
+    {
         "Kamuoyu Duyuru Tarihi": "22.04.2026",
         "Firma Adı": "GÖKSEL YEMEKÇİLİK NARENCİYE GIDA NAKLİYE TURİZM TAAHHÜT SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
         "Marka": "-",
