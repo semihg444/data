@@ -1,5 +1,49 @@
 [
   {
+    "Kamuoyu Duyuru Tarihi": "25.06.2026",
+    "Firma Adı": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "Marka": "HEKİMZADE",
+    "Ürün Adı": "HEKİMZADE AFROMEN ÇAKŞIROTU İÇEREN TAKVİYE EDİCİ GIDA",
+    "Uygunsuzluk": "İlaç Etken Maddesi Tespiti",
+    "Parti/Seri No": "0010 AKY",
+    "İlçe": "REYHANLI",
+    "İl": "HATAY",
+    "Ürün Grubu": "Takviye Edici Gıda Niteliğindeki Ürünler"
+  },
+  {
+    "Kamuoyu Duyuru Tarihi": "25.06.2026",
+    "Firma Adı": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "Marka": "HEKİMZADE",
+    "Ürün Adı": "HEKİMZADE AFROMEN ÇAKŞIROTU İÇEREN TAKVİYE EDİCİ GIDA 750MG*30KAPSÜL",
+    "Uygunsuzluk": "İlaç Etken Maddesi Tespiti",
+    "Parti/Seri No": "004 F18",
+    "İlçe": "REYHANLI",
+    "İl": "HATAY",
+    "Ürün Grubu": "Takviye Edici Gıda Niteliğindeki Ürünler"
+  },
+  {
+    "Kamuoyu Duyuru Tarihi": "25.06.2026",
+    "Firma Adı": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "Marka": "HEKİMZADE",
+    "Ürün Adı": "AFROMEN BİTKİSEL-750MG-30KAPSÜL",
+    "Uygunsuzluk": "İlaç Etken Maddesi Tespiti",
+    "Parti/Seri No": "007 F26 GOLD",
+    "İlçe": "REYHANLI",
+    "İl": "HATAY",
+    "Ürün Grubu": "Takviye Edici Gıda Niteliğindeki Ürünler"
+  },
+  {
+    "Kamuoyu Duyuru Tarihi": "25.06.2026",
+    "Firma Adı": "HEKİMZADE İLAÇ GIDA KOZMETİK SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+    "Marka": "HEKİMZADE",
+    "Ürün Adı": "HEKİMZADE AFROMEN BİTKİSEL 750MG 30KAPSÜL",
+    "Uygunsuzluk": "İlaç Etken Maddesi Tespiti",
+    "Parti/Seri No": "007 F26",
+    "İlçe": "REYHANLI",
+    "İl": "HATAY",
+    "Ürün Grubu": "Takviye Edici Gıda Niteliğindeki Ürünler"
+  },
+  {
     "Kamuoyu Duyuru Tarihi": "18.06.2026",
     "Firma Adı": "CENEVİZ GIDA VE KİMYA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
     "Marka": "CENEVİZ",
@@ -614,61 +658,6 @@
     "İlçe": "AKHİSAR",
     "İl": "MANİSA",
     "Ürün Grubu": "Bitkisel Yağlar"
-  },
-  {
-    "Kamuoyu Duyuru Tarihi": "25.12.2025",
-    "Firma Adı": "MUSTAFA SAYAR",
-    "Marka": "-",
-    "Ürün Adı": "SUMAK",
-    "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
-    "Parti/Seri No": "-",
-    "İlçe": "NİZİP",
-    "İl": "GAZİANTEP",
-    "Ürün Grubu": "Baharatlar, Çeşni Vericiler ve Soslar"
-  },
-  {
-    "Kamuoyu Duyuru Tarihi": "25.12.2025",
-    "Firma Adı": "CUMA KAYA",
-    "Marka": "-",
-    "Ürün Adı": "SUMAK",
-    "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
-    "Parti/Seri No": "-",
-    "İlçe": "ŞEHİTKAMİL",
-    "İl": "GAZİANTEP",
-    "Ürün Grubu": "Baharatlar, Çeşni Vericiler ve Soslar"
-  },
-  {
-    "Kamuoyu Duyuru Tarihi": "25.12.2025",
-    "Firma Adı": "SUDEM LOKMAN HEKİM ŞİFALI BİTKİLER BAHARAT GIDA SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
-    "Marka": "SUDEM LOKMAN HEKİM",
-    "Ürün Adı": "SUMAK YAPRAK",
-    "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
-    "Parti/Seri No": "09/2025",
-    "İlçe": "YENİMAHALLE",
-    "İl": "ANKARA",
-    "Ürün Grubu": "Baharatlar, Çeşni Vericiler ve Soslar"
-  },
-  {
-    "Kamuoyu Duyuru Tarihi": "25.12.2025",
-    "Firma Adı": "YEŞİL DAMAKÇI GIDA KOZMETİK TEMİZLİK ÜRÜNLERİ TARIM ÜRÜNLERİ HAY.NAKLİYE İNŞ.SAN.VE TİC.LTD.ŞTİ.",
-    "Marka": "HALİS ÇAVUŞOĞLU",
-    "Ürün Adı": "İSOT",
-    "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
-    "Parti/Seri No": "06.2023",
-    "İlçe": "DİKİLİ",
-    "İl": "İZMİR",
-    "Ürün Grubu": "Baharatlar, Çeşni Vericiler ve Soslar"
-  },
-  {
-    "Kamuoyu Duyuru Tarihi": "25.12.2025",
-    "Firma Adı": "BABA ALMAN BAHARATLARI -MEHMET BABA",
-    "Marka": "BABA ALMAN BAHARATLARI",
-    "Ürün Adı": "KIRMIZI TOZ BİBER",
-    "Uygunsuzluk": "Gıdada Kullanımına İzin Verilmeyen Boya Tespiti",
-    "Parti/Seri No": "1",
-    "İlçe": "MUSABEYLİ",
-    "İl": "KİLİS",
-    "Ürün Grubu": "Baharatlar, Çeşni Vericiler ve Soslar"
   },
   {
     "Kamuoyu Duyuru Tarihi": "01.07.2025",
